@@ -1,0 +1,89 @@
+,A,B,C,Z,P
+Indian,876,223,125,36,41
+CafÃ©/Coffee/Tea,4667,227,82,42,94
+Vegetarian,391,43,10,4,10
+Spanish,680,148,53,11,68
+Sandwiches,1068,51,17,12,14
+American,18867,2203,713,138,418
+Salads,352,11,0,1,11
+Vietnamese/Cambodian/Malaysia,238,73,24,1,9
+"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1085,353,135,20,60
+Bakery,1360,233,60,26,48
+Sandwiches/Salads/Mixed Buffet,792,63,16,9,9
+Korean,567,155,36,10,26
+Mediterranean,880,93,44,21,45
+Japanese,2637,655,169,45,117
+Seafood,533,69,27,11,10
+Mexican,2020,326,93,33,50
+Hamburgers,749,62,33,8,26
+Irish,915,86,8,3,10
+Thai,758,238,29,10,94
+Pizza,1972,354,34,33,66
+French,1561,200,59,9,25
+Italian,3766,487,117,30,146
+Soups,17,0,0,0,0
+Chicken,567,99,38,3,9
+Donuts,883,23,13,4,8
+Chinese,2808,1151,398,86,132
+Indonesian,22,0,6,2,0
+Jewish/Kosher,456,79,12,14,21
+Chinese/Japanese,101,62,9,10,1
+Soups & Sandwiches,224,13,0,3,6
+Greek,355,31,1,3,3
+"Juice, Smoothies, Fruit Salads",754,96,57,7,18
+Peruvian,68,25,5,0,12
+Pakistani,43,3,0,1,4
+Middle Eastern,329,53,9,2,0
+Russian,70,13,3,1,2
+Turkish,182,33,7,7,3
+"Ice Cream, Gelato, Yogurt, Ices",568,31,8,6,10
+Asian,865,183,107,12,42
+Tex-Mex,335,57,12,3,7
+African,106,76,0,2,17
+Delicatessen,746,290,78,33,44
+Bangladeshi,35,17,8,3,10
+Moroccan,41,17,3,1,19
+Pancakes/Waffles,18,0,0,0,0
+Continental,141,10,5,1,0
+English,84,7,4,0,3
+Bagels/Pretzels,504,49,8,8,11
+Soul Food,97,21,6,7,0
+Pizza/Italian,788,150,46,12,29
+Tapas,132,13,0,0,0
+Steak,399,18,20,1,6
+Hawaiian,86,11,5,5,11
+German,98,7,0,0,4
+Barbecue,158,15,0,2,4
+Australian,100,7,3,2,4
+Hotdogs,62,8,0,0,2
+Southwestern,12,3,0,0,4
+Chinese/Cuban,53,8,8,6,0
+"Bottled beverages, including water, sodas, juices, etc.",184,24,1,0,1
+Caribbean,189,81,25,6,6
+Filipino,48,5,0,0,0
+Eastern European,104,15,2,2,0
+Afghan,32,0,0,1,0
+Other,253,14,3,4,1
+Californian,13,2,0,1,0
+Ethiopian,92,9,0,0,0
+Iranian,16,0,3,0,0
+Basque,2,0,0,0,0
+Hotdogs/Pretzels,66,8,0,1,3
+Fruits/Vegetables,17,0,0,0,0
+Armenian,81,6,4,0,0
+Brazilian,87,5,0,5,0
+Creole,8,0,0,0,0
+Polish,20,0,0,2,4
+Egyptian,19,2,0,0,5
+Portuguese,16,0,0,0,0
+Scandinavian,23,0,0,0,0
+Polynesian,4,5,7,0,0
+Creole/Cajun,5,0,6,0,0
+Not Listed/Not Applicable,6,0,0,0,0
+Nuts/Confectionary,10,0,0,0,0
+,,,,,
+count,82,82,82,82,82
+mean,735.804878,112.2926829,34.31707317,9.536585366,22.7195122
+std,2188.021573,287.6266222,93.39321863,19.76915862,53.67443569
+min,2,0,0,0,0
+max,18867,2203,713,138,418
